@@ -1,0 +1,35 @@
+body {
+    background-color: darkgray;
+    margin-left: 50px;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: 'Kalam', cursive;
+}
+
+h3 {
+    font-family: 'Kalam', cursive;
+}
+
+h4 {
+    font-family: 'Kalam', cursive;
+}
+
+#biopic{
+    position: absolute;
+    margin-left: 900px;
+    border-radius: 30px;
+    margin-top: -300px;
+}
+
+p {
+    margin-right: 600px;
+    font-family: 'Arapey', serif;
+    font-size: 20px;
+}
