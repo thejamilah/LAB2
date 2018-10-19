@@ -1,5 +1,5 @@
-#H1 LAB 2 CODE: EXTEND YOUR 'ABOUT ME' and guessing game
-#h2 TECHNICAL REQUIREMENTS
+# LAB 2 CODE: EXTEND YOUR 'ABOUT ME' and guessing game
+# TECHNICAL REQUIREMENTS
 * Follow the instructions in the adjacent "Setting Up a New Code 201 Project" document
 * HTML, CSS, and JavaScript must be cleanly written with correct indentation and syntax. Look at examples online and in your textbook. Note that your JS must pass the rules in the linter that we installed.
 * Your JS file contains a 'use strict' declaration at the top. Always.
